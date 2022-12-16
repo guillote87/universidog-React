@@ -1,0 +1,47 @@
+/* Slider */
+.comentarios-container{
+    width: 100%;
+    display: flex;
+    background-color: var(--crema);
+  
+}
+
+.comentarios-body {
+ 
+ display: flex;
+align-items: center;
+margin: auto;
+
+}
+
+.comentarios-image {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: 50% 30%;
+    border: solid 2px #fef0de
+}
+
+.comentarios-text {
+    max-width: 700px;
+    text-align: left;
+}
+
+.comentarios-arrow {
+    width: 5%;
+    cursor: pointer;
+}
+
+.comentarios-body-show {
+    pointer-events: unset;
+    opacity: 1;
+    transition: opacity 1.5s ease-in-out;
+}
+
+.comentarios-course {
+    background-color: #7ca740;
+    color: #fff;
+    display: inline-block;
+    padding: 5px
+}

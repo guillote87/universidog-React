@@ -1,0 +1,16 @@
+.info-wrap{
+    margin-top: 3rem;
+    height: 350px;
+    width: 90%;
+ margin: auto;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+} 
+.info-title{
+    height: 40px;
+}
+.info-card{
+      width: 260px;
+}
