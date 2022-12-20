@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/universidog-React/static/css/main.1d4dcee5.css",
+    "main.js": "/universidog-React/static/js/main.e329fa5c.js",
+    "static/media/header.jpg": "/universidog-React/static/media/header.225e404d0df60c5a789e.jpg",
+    "index.html": "/universidog-React/index.html",
+    "main.1d4dcee5.css.map": "/universidog-React/static/css/main.1d4dcee5.css.map",
+    "main.e329fa5c.js.map": "/universidog-React/static/js/main.e329fa5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d4dcee5.css",
+    "static/js/main.e329fa5c.js"
+  ]
+}
