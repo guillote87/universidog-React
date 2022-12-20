@@ -26,9 +26,9 @@ export const Footer = () => {
                 </div>
                 <div className="footer-copy container">
                     <div className="footer-social">
-                        <a href="#" className="footer__icons"><img src="/images/facebook.svg" className="footer-img" /></a>
-                        <a href="#" className="footer__icons"><img src="/images/twitter.svg" className="footer-img" /></a>
-                        <a href="https://www.instagram.com/universidog_/?hl=es" className="footer__icons" ><img src="/images/instagram.svg" className="footer-img" /></a>
+                        <a href="#" className="footer__icons"><img src="./images/facebook.svg" className="footer-img" /></a>
+                        <a href="#" className="footer__icons"><img src="./images/twitter.svg" className="footer-img" /></a>
+                        <a href="https://www.instagram.com/universidog_/?hl=es" className="footer__icons" ><img src="./images/instagram.svg" className="footer-img" /></a>
                     </div>
                 </div>
                 <h3 className="footer-copyright">Derechos reservados &copy; Universidog</h3>
