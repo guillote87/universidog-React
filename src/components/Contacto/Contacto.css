@@ -1,0 +1,20 @@
+.subtitle {
+    font-size: 2rem;
+    margin-bottom: 25px;
+}
+.oferta-container {
+   width: 90%;
+   margin: 5% auto;
+   height: 200px;
+}
+.oferta-container a {
+    text-decoration: none;
+    color: #fff;
+ }
+
+.cta{
+    background-color: var(--verde);
+    padding: 13px 30px;
+    border-radius: 32px;
+    display: inline-block;
+  }

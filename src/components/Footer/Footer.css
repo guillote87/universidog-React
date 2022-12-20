@@ -1,0 +1,32 @@
+.footer{
+    background-color: var(--verde);
+    color: var(--crema);
+    margin:  auto;
+    height: 200px;
+}
+
+.nav-link-footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+.nav-links {
+    text-decoration: none;
+}
+.footer-copyright {
+    text-align: right;
+    font-weight: 300;
+}
+.footer-copy {
+    -padding-container: 10px 0;
+    text-align: center;  
+}
+.footer-icons {
+    margin-bottom: 10px;
+}
+
+.footer-img {
+    width: 30px;
+    margin-top: 10px;
+}
